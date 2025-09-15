@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,hf-mirror.com
 #steam
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steamstatic.com
 #cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,workers.dev
